@@ -1,0 +1,59 @@
+* {border: 1px lightblue solid;
+    margin:1px;}
+    
+    .main {
+      width: 70%;
+      margin: 0 auto;
+      background: lightblue;
+    }
+      
+    .overlap{
+    position: relative;	
+      z-index: 1;
+      top: -120px;
+      right: -40px;
+      color: pink;
+    }
+      
+    .overlap2{
+    position: relative;	
+      z-index: 1;
+      top: -120px;
+      right: -40px;
+      color: pink;
+    }
+      
+      nav{
+          display: flex;
+          justify-content: space-around;
+          width: 100%;
+      }
+      
+    .yahoo{
+      width: 100%;
+    }
+    
+    p{
+      font-size: 2vw;
+    }
+      
+      .pradas{
+          display: flex;
+          justify-content: space-around;
+          width: 100%;
+      }
+      
+      .prada{
+          width: 30%;
+      }
+      
+      .pradaImg{
+          width: 100%;
+      }
+      
+      .two-piece{
+          display: flex;
+      }
+      .p23{
+          width:65%;
+      }
